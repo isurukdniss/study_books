@@ -1,0 +1,207 @@
+{
+  "source": "Designing Data-Intensive Applications (Martin Kleppmann).pdf",
+  "title": "Designing Data-Intensive Applications",
+  "author": "Martin Kleppmann",
+  "pdf_pages": 613,
+  "engine": "PyMuPDF4LLM",
+  "sections": [
+    {
+      "title": "Front Matter",
+      "filename": "00-front-matter.md",
+      "start_page": 1,
+      "end_page": 3,
+      "pages": 3,
+      "characters": 556,
+      "sha256": "318a89be942ed29116df9520438ddae7ba379241a8e34e84e2acd2e4826f5758"
+    },
+    {
+      "title": "Copyright",
+      "filename": "copyright.md",
+      "start_page": 4,
+      "end_page": 8,
+      "pages": 5,
+      "characters": 2966,
+      "sha256": "62434660ae1bcaf1eea07a92b3f40bf13fa10715871840865498feabccf1210f"
+    },
+    {
+      "title": "Table of Contents",
+      "filename": "table-of-contents.md",
+      "start_page": 9,
+      "end_page": 14,
+      "pages": 6,
+      "characters": 20818,
+      "sha256": "2f0b1f11fea8ee12ef8117d8025e7887b53b279c688be04cc128b69fc517ca48"
+    },
+    {
+      "title": "Preface",
+      "filename": "00-preface.md",
+      "start_page": 15,
+      "end_page": 22,
+      "pages": 8,
+      "characters": 16607,
+      "sha256": "199118482b4e91f1ca7b827a7cb46f4d7140bd47b724ab7d3830804ea11124d5"
+    },
+    {
+      "title": "Part I. Foundations of Data Systems",
+      "filename": "part-01-foundations-of-data-systems.md",
+      "start_page": 23,
+      "end_page": 24,
+      "pages": 2,
+      "characters": 1443,
+      "sha256": "5118005e5e3f4a56b7086c38cccee9e3cdac861c6bf7fe540b64aeb994f14265"
+    },
+    {
+      "title": "Chapter 1. Reliable, Scalable, and Maintainable Applications",
+      "filename": "chapter-01-reliable-scalable-and-maintainable-applications.md",
+      "start_page": 25,
+      "end_page": 48,
+      "pages": 24,
+      "characters": 53951,
+      "sha256": "f2273c03c513faeba451e0365804ba14e8632c3198a5dea512aa06c8bc6f587d"
+    },
+    {
+      "title": "Chapter 2. Data Models and Query Languages",
+      "filename": "chapter-02-data-models-and-query-languages.md",
+      "start_page": 49,
+      "end_page": 90,
+      "pages": 42,
+      "characters": 88400,
+      "sha256": "ec5f051c6684e511cd712da514fc5376763794c90a148352f9aca51dc3cec2c1"
+    },
+    {
+      "title": "Chapter 3. Storage and Retrieval",
+      "filename": "chapter-03-storage-and-retrieval.md",
+      "start_page": 91,
+      "end_page": 132,
+      "pages": 42,
+      "characters": 92511,
+      "sha256": "f630df7ec440fff1d523232be06c00fe117980ecda79fd46000a7c32d05f2d5f"
+    },
+    {
+      "title": "Chapter 4. Encoding and Evolution",
+      "filename": "chapter-04-encoding-and-evolution.md",
+      "start_page": 133,
+      "end_page": 166,
+      "pages": 34,
+      "characters": 74856,
+      "sha256": "a18bf808ac3ab2639c008ee2ba45e610ac33c4acf97827d36a86c06ae66c354d"
+    },
+    {
+      "title": "Part II. Distributed Data",
+      "filename": "part-02-distributed-data.md",
+      "start_page": 167,
+      "end_page": 172,
+      "pages": 6,
+      "characters": 7555,
+      "sha256": "6bfbeb8d24c7625dfa8e31446f62b723ce25095e03756d1ee0086239d5be544d"
+    },
+    {
+      "title": "Chapter 5. Replication",
+      "filename": "chapter-05-replication.md",
+      "start_page": 173,
+      "end_page": 220,
+      "pages": 48,
+      "characters": 108735,
+      "sha256": "bf83aa69f77651f317ba2963a3fb2aff520533c152c242dcbc875c9171772ac4"
+    },
+    {
+      "title": "Chapter 6. Partitioning",
+      "filename": "chapter-06-partitioning.md",
+      "start_page": 221,
+      "end_page": 242,
+      "pages": 22,
+      "characters": 47339,
+      "sha256": "95a2df0c66f4d4b3a6dc5abdfa66e1cbc7c9de2c3a68c517c8b4931afd738d03"
+    },
+    {
+      "title": "Chapter 7. Transactions",
+      "filename": "chapter-07-transactions.md",
+      "start_page": 243,
+      "end_page": 294,
+      "pages": 52,
+      "characters": 120907,
+      "sha256": "6418bae685ed477bb0019253e3a7f2854353a6914c3a37cc14cde4a3df74144a"
+    },
+    {
+      "title": "Chapter 8. The Trouble with Distributed Systems",
+      "filename": "chapter-08-the-trouble-with-distributed-systems.md",
+      "start_page": 295,
+      "end_page": 342,
+      "pages": 48,
+      "characters": 118909,
+      "sha256": "e79ab099d5a83431003ca6df5ee1de54e2d4d3ec6e188a2614fc0c98bbf4bcc4"
+    },
+    {
+      "title": "Chapter 9. Consistency and Consensus",
+      "filename": "chapter-09-consistency-and-consensus.md",
+      "start_page": 343,
+      "end_page": 406,
+      "pages": 64,
+      "characters": 163423,
+      "sha256": "06a24409e3e9a50d0f222b2782175031a69ac0f03351db997bc9db4d179cf308"
+    },
+    {
+      "title": "Part III. Derived Data",
+      "filename": "part-03-derived-data.md",
+      "start_page": 407,
+      "end_page": 410,
+      "pages": 4,
+      "characters": 4340,
+      "sha256": "c35dd940e6cbf2dd270ea1e2bc7dd99e8623b4e88e84970d0a6d3db196e8e81f"
+    },
+    {
+      "title": "Chapter 10. Batch Processing",
+      "filename": "chapter-10-batch-processing.md",
+      "start_page": 411,
+      "end_page": 460,
+      "pages": 50,
+      "characters": 125607,
+      "sha256": "2fb8368581b077fc960e687394a94dcb59a641cde611568a4dc17c742e682079"
+    },
+    {
+      "title": "Chapter 11. Stream Processing",
+      "filename": "chapter-11-stream-processing.md",
+      "start_page": 461,
+      "end_page": 510,
+      "pages": 50,
+      "characters": 124884,
+      "sha256": "073363d32c84dff31494bf37fd41ca581eb2ef7261d3cbcdb3ba74b344a3a722"
+    },
+    {
+      "title": "Chapter 12. The Future of Data Systems",
+      "filename": "chapter-12-the-future-of-data-systems.md",
+      "start_page": 511,
+      "end_page": 574,
+      "pages": 64,
+      "characters": 174789,
+      "sha256": "aa6a10c818a6bf560389258f79f7d21251d8d5cdeeae1647345e0792ba3594f1"
+    },
+    {
+      "title": "Glossary",
+      "filename": "glossary.md",
+      "start_page": 575,
+      "end_page": 580,
+      "pages": 6,
+      "characters": 15856,
+      "sha256": "d583c628f2b189fdfa40f50203bd8cfb7b272d8afbb34c3a6ac53528ec3b8b23"
+    },
+    {
+      "title": "Index",
+      "filename": "index.md",
+      "start_page": 581,
+      "end_page": 612,
+      "pages": 32,
+      "characters": 84481,
+      "sha256": "3cf8fdca5186aed3c90889bf529c54d263f9d4ecb41bb076ba431bde3f93d833"
+    },
+    {
+      "title": "About the Author and Colophon",
+      "filename": "about-the-author-and-colophon.md",
+      "start_page": 613,
+      "end_page": 613,
+      "pages": 1,
+      "characters": 2908,
+      "sha256": "e58589b0fd057f03b0843a5300ab291d66af6b9fb1795b3fd5d909e476128384"
+    }
+  ]
+}
