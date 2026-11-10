@@ -1,0 +1,207 @@
+{
+  "source": "Database Internals.pdf",
+  "title": "Database Internals",
+  "author": "Alex Petrov",
+  "pdf_pages": 590,
+  "engine": "PyMuPDF4LLM",
+  "sections": [
+    {
+      "title": "Front Matter",
+      "filename": "00-front-matter.md",
+      "start_page": 1,
+      "end_page": 5,
+      "pages": 5,
+      "characters": 2459,
+      "sha256": "8c7e9639fe7056f56d9ea6f33d82b4c3176ae059dd8a2f02e9a32744b4e464e4"
+    },
+    {
+      "title": "Preface",
+      "filename": "00-preface.md",
+      "start_page": 6,
+      "end_page": 18,
+      "pages": 13,
+      "characters": 15661,
+      "sha256": "81d483b06608e8c3ed17c3168a03400b6d8eb1368cc90b7106c166620328f9cb"
+    },
+    {
+      "title": "I. Storage Engines",
+      "filename": "part-01-storage-engines.md",
+      "start_page": 19,
+      "end_page": 26,
+      "pages": 8,
+      "characters": 13643,
+      "sha256": "1a1bc7dceefa69dd67025fecbe888c5d973c4f67c950b51761934010b5ac5a8e"
+    },
+    {
+      "title": "1. Introduction and Overview",
+      "filename": "chapter-01-introduction-and-overview.md",
+      "start_page": 27,
+      "end_page": 55,
+      "pages": 29,
+      "characters": 35762,
+      "sha256": "fcd5159b2774bd377719a3a06a0c288977d8fe048a24ada892e17ee47043090d"
+    },
+    {
+      "title": "2. B-Tree Basics",
+      "filename": "chapter-02-b-tree-basics.md",
+      "start_page": 56,
+      "end_page": 85,
+      "pages": 30,
+      "characters": 35304,
+      "sha256": "1c5ecb32a843006dd7d55248eb0f81bbc6e20a1bdce9f09c4213e4cd50fb610f"
+    },
+    {
+      "title": "3. File Formats",
+      "filename": "chapter-03-file-formats.md",
+      "start_page": 86,
+      "end_page": 110,
+      "pages": 25,
+      "characters": 32629,
+      "sha256": "a6c2b5c52db926b89897f6ef71300998c09333c94d927bf74da8eb598ee9ea39"
+    },
+    {
+      "title": "4. Implementing B-Trees",
+      "filename": "chapter-04-implementing-b-trees.md",
+      "start_page": 111,
+      "end_page": 140,
+      "pages": 30,
+      "characters": 32216,
+      "sha256": "f7cb743a0a477b0f4b327f49480b285a841ee380e40aab5725898747ea87f896"
+    },
+    {
+      "title": "5. Transaction Processing and Recovery",
+      "filename": "chapter-05-transaction-processing-and-recovery.md",
+      "start_page": 141,
+      "end_page": 189,
+      "pages": 49,
+      "characters": 72665,
+      "sha256": "75f6db06354b553059a71f251f9221237af886cb8755d65d1d9eabb24fbde37e"
+    },
+    {
+      "title": "6. B-Tree Variants",
+      "filename": "chapter-06-b-tree-variants.md",
+      "start_page": 190,
+      "end_page": 219,
+      "pages": 30,
+      "characters": 36199,
+      "sha256": "46a51bfddd33ca97759c0dfe7cc52f10019d819602304cb08cdf8212c383b84f"
+    },
+    {
+      "title": "7. Log-Structured Storage",
+      "filename": "chapter-07-log-structured-storage.md",
+      "start_page": 220,
+      "end_page": 271,
+      "pages": 52,
+      "characters": 72999,
+      "sha256": "301b695e03c177c0c4eaf5855a92856ed489979d953aca8a7383bfcc4f561fae"
+    },
+    {
+      "title": "Part I Conclusion",
+      "filename": "part-01-conclusion.md",
+      "start_page": 272,
+      "end_page": 274,
+      "pages": 3,
+      "characters": 3842,
+      "sha256": "9b629c6451193a998db0a17f05369d6c27a56773cef592e7b53a1bd751a116ba"
+    },
+    {
+      "title": "II. Distributed Systems",
+      "filename": "part-02-distributed-systems.md",
+      "start_page": 275,
+      "end_page": 277,
+      "pages": 3,
+      "characters": 5219,
+      "sha256": "71822febb6bbb76b0a848576773b008ac1cc47574983a2ab42c5e299b62ea23c"
+    },
+    {
+      "title": "8. Introduction and Overview",
+      "filename": "chapter-08-introduction-and-overview.md",
+      "start_page": 278,
+      "end_page": 313,
+      "pages": 36,
+      "characters": 56662,
+      "sha256": "c34497d404726334edfa666ba9f27821c6fdeb6d022ba439b1d4d3203de48dee"
+    },
+    {
+      "title": "9. Failure Detection",
+      "filename": "chapter-09-failure-detection.md",
+      "start_page": 314,
+      "end_page": 326,
+      "pages": 13,
+      "characters": 18553,
+      "sha256": "6bc0e84fffe2c0c4ddf1f0eda266c5c9b9195d8cb60d9699c1b8df7ed255c260"
+    },
+    {
+      "title": "10. Leader Election",
+      "filename": "chapter-10-leader-election.md",
+      "start_page": 327,
+      "end_page": 339,
+      "pages": 13,
+      "characters": 18358,
+      "sha256": "5bc2581a2eba03b221450fd266fa1a5d33297989c1b786030e40bde3b862b13c"
+    },
+    {
+      "title": "11. Replication and Consistency",
+      "filename": "chapter-11-replication-and-consistency.md",
+      "start_page": 340,
+      "end_page": 380,
+      "pages": 41,
+      "characters": 66542,
+      "sha256": "a7fc70039e038b1dd06480f76293a3b8fde254cf94c29c34bd494b43ca142d35"
+    },
+    {
+      "title": "12. Anti-Entropy and Dissemination",
+      "filename": "chapter-12-anti-entropy-and-dissemination.md",
+      "start_page": 381,
+      "end_page": 402,
+      "pages": 22,
+      "characters": 30892,
+      "sha256": "0e2de00cf229db5ca0ec136b21fb6b47b25cfb15c7d99e998351eb803b37e4f3"
+    },
+    {
+      "title": "13. Distributed Transactions",
+      "filename": "chapter-13-distributed-transactions.md",
+      "start_page": 403,
+      "end_page": 434,
+      "pages": 32,
+      "characters": 48291,
+      "sha256": "a525bac410d0e36387f01f2f9108e8c225f51ebd2e734b611c4a31cc56cad530"
+    },
+    {
+      "title": "14. Consensus",
+      "filename": "chapter-14-consensus.md",
+      "start_page": 435,
+      "end_page": 484,
+      "pages": 50,
+      "characters": 75843,
+      "sha256": "f4f00ae4b60b56c502d99cb95e06787ec5ac9c5b1279419bc0fda2704611ec16"
+    },
+    {
+      "title": "Part II Conclusion",
+      "filename": "part-02-conclusion.md",
+      "start_page": 485,
+      "end_page": 488,
+      "pages": 4,
+      "characters": 5736,
+      "sha256": "699a194e4a5c41595ebf1072d82e0282522412c938d940bfde3411b3a1841edd"
+    },
+    {
+      "title": "A. Bibliography",
+      "filename": "appendix-a-bibliography.md",
+      "start_page": 489,
+      "end_page": 516,
+      "pages": 28,
+      "characters": 50936,
+      "sha256": "42228dbbc0d6b820abf356d266729adfd0205d5341a881b37a6a4885816cc94a"
+    },
+    {
+      "title": "Index",
+      "filename": "index.md",
+      "start_page": 517,
+      "end_page": 590,
+      "pages": 74,
+      "characters": 61421,
+      "sha256": "841eda0692b2cf11bd7fe21762082536b3a9416f503320bf6fb034b569832a76"
+    }
+  ]
+}
